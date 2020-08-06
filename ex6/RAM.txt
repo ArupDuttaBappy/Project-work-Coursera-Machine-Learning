@@ -1,0 +1,14 @@
+neural
+networks to recognize hand-written digits.
+The neural
+network will be able to represent complex models that form non-linear hy-
+potheses.
+feedforward
+propagation algorithm to use our weights for prediction.
+the backpropagation algorithm for neural
+networks and apply it to the task of hand-written digit recognition.
+
+In the 3rd exercise, you implemented feedforward propagation for neu-
+ral networks and used it to predict handwritten digits with the weights we
+provided. In the 4th exercise, you will implement the backpropagation algorithm
+to learn the parameters for the neural network.
